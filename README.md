@@ -1,4 +1,6 @@
-![ATX](https://res.cloudinary.com/bbobba/image/upload/v1555160059/pkm-Banner.jpg)
+# <center>Project Title</center>
+
+![Pokemon Banner](https://res.cloudinary.com/bbobba/image/upload/v1555160616/maxresdefault.jpg)
 
 One Paragraph of project description goes here
 
